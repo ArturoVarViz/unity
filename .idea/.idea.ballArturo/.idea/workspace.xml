@@ -11,8 +11,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scipt/camaraController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scipt/playerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scipt/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scipt/camaraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scipt/playerController.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -56,6 +57,8 @@
       <workItem from="1706085469532" duration="3879000" />
       <workItem from="1706172638272" duration="6033000" />
       <workItem from="1706780485104" duration="762000" />
+      <workItem from="1708516607270" duration="5929000" />
+      <workItem from="1708590654444" duration="2820000" />
     </task>
     <servers />
   </component>
