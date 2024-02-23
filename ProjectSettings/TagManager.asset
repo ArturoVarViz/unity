@@ -9,6 +9,7 @@ TagManager:
   - coins
   - power
   - poison
+  - Ground
   layers:
   - Default
   - TransparentFX

@@ -16,7 +16,7 @@ public class Enemy : MonoBehaviour
         if (target != null)
         {
             pathfinder.SetDestination(target.position);
-            Debug.Log(target.position);
+           // Debug.Log(target.position);
         }
     }
 }
